@@ -11,7 +11,7 @@ if (c.im == 0)
 {
 printf("%g\n", c.re);
 }
-else if (c.im < 0)
+else if (c.im < -1)
 {
 c.im = c.im * -1;
 printf("%g - %gi\n", c.re, c.im);
