@@ -1,6 +1,7 @@
 #ifndef holberton
 #define holberton
 #include <stdio.h>
+#include <math.h>
 
 typedef struct complex
 {
